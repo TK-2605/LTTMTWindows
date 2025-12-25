@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\bin",
+    "\\bin\\Release",
+    "\\BLL",
+    "\\DAL",
+    "\\GUI",
+    "\\Images",
+    "\\Models",
+    "\\obj\\Debug",
+    "\\obj\\Debug\\TempPE"
+  ],
+  "SelectedNode": "\\ShoppingSystem.csproj",
+  "PreviewInSolutionExplorer": false
+}

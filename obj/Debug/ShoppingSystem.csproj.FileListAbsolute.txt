@@ -1,0 +1,17 @@
+D:\HUTECH\ky_1B\LTTMT_WinDows\Grocerystore\ShoppingSystem\bin\Debug\ShoppingSystem.exe.config
+D:\HUTECH\ky_1B\LTTMT_WinDows\Grocerystore\ShoppingSystem\bin\Debug\ShoppingSystem.exe
+D:\HUTECH\ky_1B\LTTMT_WinDows\Grocerystore\ShoppingSystem\bin\Debug\ShoppingSystem.pdb
+D:\HUTECH\ky_1B\LTTMT_WinDows\Grocerystore\ShoppingSystem\bin\Debug\EntityFramework.dll
+D:\HUTECH\ky_1B\LTTMT_WinDows\Grocerystore\ShoppingSystem\bin\Debug\EntityFramework.SqlServer.dll
+D:\HUTECH\ky_1B\LTTMT_WinDows\Grocerystore\ShoppingSystem\bin\Debug\EntityFramework.xml
+D:\HUTECH\ky_1B\LTTMT_WinDows\Grocerystore\ShoppingSystem\bin\Debug\EntityFramework.SqlServer.xml
+D:\HUTECH\ky_1B\LTTMT_WinDows\Grocerystore\ShoppingSystem\obj\Debug\ShoppingSystem.csproj.AssemblyReference.cache
+D:\HUTECH\ky_1B\LTTMT_WinDows\Grocerystore\ShoppingSystem\obj\Debug\ShoppingSystem.Migrations.KhoiTaoDB.resources
+D:\HUTECH\ky_1B\LTTMT_WinDows\Grocerystore\ShoppingSystem\obj\Debug\ShoppingSystem.Properties.Resources.resources
+D:\HUTECH\ky_1B\LTTMT_WinDows\Grocerystore\ShoppingSystem\obj\Debug\ShoppingSystem.csproj.GenerateResource.cache
+D:\HUTECH\ky_1B\LTTMT_WinDows\Grocerystore\ShoppingSystem\obj\Debug\ShoppingSystem.csproj.CoreCompileInputs.cache
+D:\HUTECH\ky_1B\LTTMT_WinDows\Grocerystore\ShoppingSystem\obj\Debug\Shopping.8CC1D428.Up2Date
+D:\HUTECH\ky_1B\LTTMT_WinDows\Grocerystore\ShoppingSystem\obj\Debug\ShoppingSystem.exe
+D:\HUTECH\ky_1B\LTTMT_WinDows\Grocerystore\ShoppingSystem\obj\Debug\ShoppingSystem.pdb
+D:\HUTECH\ky_1B\LTTMT_WinDows\Grocerystore\ShoppingSystem\obj\Debug\ShoppingSystem.exe.config
+D:\HUTECH\ky_1B\LTTMT_WinDows\Grocerystore\ShoppingSystem\obj\Debug\ShoppingSystem.GUI.Auth.LoginForm.resources
